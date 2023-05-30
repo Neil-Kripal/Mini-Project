@@ -1,0 +1,143 @@
+{
+    "gyms": [
+      {
+        "name": "Anytime Fitness - Prestons",
+        "contact": {
+          "phone": "02 8103 5460",
+          "email": "prestonsnsw@anytimefitness.com.au",
+          "Price" : "$9.95",
+          "Prices" :"$39.90/fortnight - 18 month contract",
+          "Promotions" :"No Joining or Pass Fee",
+          "website": "https://www.anytimefitness.com.au/gyms/au-1682/prestons-nsw/"
+        },
+        "location": {
+          "address": "279 Kurrajong Rd",
+          "city": "Prestons",
+          "state": "NSW",
+          "postcode": "2170",
+          "country": "Australia",
+          "image": "Anytime Fitness.jpg"          
+        }
+      },
+
+      {
+        "name": "Anytime Fitness - Edmonson Park",
+        "contact": {
+          "phone": "02 8103 5460",
+          "email": "edmonsonparknsw@anytimefitness.com.au",
+          "Price" : "$9.95",
+          "Prices" :"$39.90/fortnight - 18 month contract",
+          "Promotions" :"No Joining or Pass Fee",
+          "website": "https://www.anytimefitness.com.au/gyms/au-1380/edmondson-park-nsw-2171/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+        },
+        "location": {
+          "address": "279 Kurrajong Rd",
+          "city": "Edmonson Park",
+          "state": "NSW",
+          "postcode": "2170",
+          "country": "Australia",
+          "image": "Anytime Fitness.jpg"          
+        }
+      },
+      {
+        "name": "Club Lime - Liverpool",
+        "contact": {
+          "phone": "02 8071 4430",
+          "email": "liverpool@clublime.com.au",
+          "Price" : "$9.95",
+          "Prices" :"$16.90/week - no contract",
+          "Promotions" :"4 Weeks Free, No Start Up Fees",
+          "website": "https://www.clublime.com.au/"
+        },
+        "location": {
+          "address": "2-18 Orange Grove Road",
+          "city": "Liverpool",
+          "state": "NSW",
+          "postcode": "2170",
+          "country": "Australia",
+          "image" : "Club Lime.jpg"
+        }
+      },
+
+      {
+        "name": "Snap Fitness - Casula",
+        "contact": {
+          "phone": "0434 692 442",
+          "email": "casula@snapfitness.com.au",
+          "Price" : "$9.95",
+          "Prices" :"$14.95/week - 12 month contract, or $16.95/week - no contract",
+          "Promotions" :"2 Weeks Free",
+          "website": "https://www.snapfitness.com/au/gyms/casula?utm_source=gmb&utm_medium=yext"
+        },
+        "location": {
+          "address": "629-631 Hume Highway",
+          "city": "Casula",
+          "state": "NSW",
+          "postcode": "2170",
+          "country": "Australia",
+          "image" : "Snap Fitness.jpg"
+        }
+      },
+
+      {
+        "name": "Plus Fitness - Liverpool",
+        "contact": {
+          "phone": "02 9601 1103",
+          "email": "liverpool@plusfitness.com.au",
+          "Price" : "$9.95",
+          "Prices" :"$16.95/ week - no contract",
+          "Promotions" :"No Joining Fee",
+          "website": "https://www.plusfitness.com.au/gyms/liverpool/"
+        },
+        "location": {
+          "address": "629-631 Hume Highway",
+          "city": "Liverpool",
+          "state": "NSW",
+          "postcode": "2170",
+          "country": "Australia",
+          "image" : "Plus Fitness.jpg"
+        }
+      },
+
+      {
+        "name": "Plus Fitness - Edmonson Park",
+        "contact": {
+          "phone": "02 9601 1103",
+          "email": "edmonsonpark@plusfitness.com.au",
+          "Price" : "$9.95",
+          "Prices" :"$16.95/ week - no contract",
+          "Promotions" :"No Joining Fee",
+          "website": "https://www.plusfitness.com.au/gyms/edmondson-park/"
+        },
+        "location": {
+          "address": "629-631 Hume Highway",
+          "city": "Edmonson Park",
+          "state": "NSW",
+          "postcode": "2170",
+          "country": "Australia",
+          "image" : "Plus Fitness.jpg"
+        }
+      },
+
+      {
+        "name": "Planet Fitness - Casula",
+        "contact": {
+          "phone": "02 8397 4844",
+          "email": "",
+          "Price" : "$9.95",
+          "Prices" :"$9.95/week - no contract",
+          "Promotions" :"Bring a Friend",
+          "website": "https://www.planetfitness.com.au/gyms/sydney-casula-nsw"
+        },
+        "location": {
+          "address": "Shop 17A/25 Camden Valley Way",
+          "city": "Casula",
+          "state": "NSW",
+          "postcode": "2170",
+          "country": "Australia",
+          "image" : "Planet Fitness.jpg"
+        }
+    }
+
+    ]
+  }
