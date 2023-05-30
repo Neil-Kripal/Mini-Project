@@ -60,7 +60,7 @@ h1 {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: #2f3640;
+  background: #4B91F1;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -68,7 +68,7 @@ h1 {
 
 .searchBox:hover > .searchButton {
   background: white;
-  color: #2f3640;
+  color: #4B91F1;
 }
 
 .gymCards {
